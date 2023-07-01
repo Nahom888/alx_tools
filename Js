@@ -1,3 +1,1 @@
-main.js￼Enter
-alx.js
-school.js
+main.js
